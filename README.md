@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning/expanding my knowledge on Javascript, Typescript, React, GraphQL, Node, Kubernetes, Docker, PostgreSQL etc!!!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am incredibility good at catching pigeons :laughing: one summer I worked in a psychology lab where I was responsible for taking care of 74 pigeons - each had their own unique personality and names (Luca was my favorite 🤠)
+
 <!--
 **lindsaybstoner/lindsaybstoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
